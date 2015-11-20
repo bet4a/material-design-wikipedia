@@ -1,0 +1,18 @@
+{
+  "name": "material-design-wikipedia",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bet4a/material-design-wikipedia.git"
+  },
+  "author": "Bret Abel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bet4a/material-design-wikipedia/issues"
+  },
+  "homepage": "https://github.com/bet4a/material-design-wikipedia#readme"
+}
